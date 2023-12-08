@@ -6,6 +6,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wdkammrul&theme=shadow-purple&hide_border=true&border_radius=7&mode=weekly&card_width=550&type=png)](https://git.io/streak-stats)
 
 
+## 👨🏽‍💻 My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,express,figma,firebase,mongodb,react," />
+  </a>
+</p>
+
+
 ## Current overview
 
 - 🌱 I’m learning - Programming Hero
