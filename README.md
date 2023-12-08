@@ -2,6 +2,10 @@
 ![The San Juan Mountains are beautiful!](https://i.ibb.co/8dK7vBG/489212.jpg " San Juan Mountains")
 
 
+## Preview
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wdkammrul&theme=radical&hide_border=true&border_radius=7&mode=weekly&type=png)](https://git.io/streak-stats)
+
+
 ## Current overview
 
 - 🌱 I’m learning - Programming Hero
