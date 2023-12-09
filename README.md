@@ -10,6 +10,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,express,figma,firebase,mongodb,react,&perline=5)](https://skillicons.dev)
 
 
+## Sports / Game / Activities / Hobby:
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+
 ## Current overview
 
 - 🌱 I’m learning - Programming Hero
