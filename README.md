@@ -1,7 +1,7 @@
 
 ![The San Juan Mountains are beautiful!](https://i.ibb.co/SQ0P9pR/github-banner.jpg " San Juan Mountains")
 
-## 👋 Hello, I'm Kamrul Islam
+# 👋 Hello, I'm Kamrul Islam
 A Web Developer
 
 🏠   Living: Dhaka, Bangladesh
