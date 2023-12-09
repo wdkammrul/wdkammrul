@@ -7,7 +7,7 @@
 
 
 ## 👨🏽‍💻 My Skills
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,express,figma,firebase,mongodb,react," />
   </a>
