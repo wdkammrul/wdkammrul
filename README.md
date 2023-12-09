@@ -43,6 +43,3 @@ I'm a professional web developer proficient in HTML, CSS, Tailwind, JavaScript, 
 - ⚡ Fun fact: I do not get tired while coding
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={wdkammrul}&theme={white}&exclude={exclude}
-
-
