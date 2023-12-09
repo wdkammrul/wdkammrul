@@ -1,5 +1,5 @@
 
-![The San Juan Mountains are beautiful!](https://i.ibb.co/8dK7vBG/489212.jpg " San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://i.ibb.co/SQ0P9pR/github-banner.jpg " San Juan Mountains")
 
 ## 👋 Hello, I'm Kamrul Islam
 A Web Developer
