@@ -44,9 +44,9 @@ I'm a professional web developer proficient in HTML, CSS, Tailwind, JavaScript, 
 
 
 
-## Latest Project
+# Latest Project
 
-# DiagnoEasy (Diagnostic Center Management System)
+## DiagnoEasy (Diagnostic Center Management System)
 
  https://diagnoeasy-7c73c.web.app/
 
