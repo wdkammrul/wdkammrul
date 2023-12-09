@@ -13,7 +13,7 @@ I'm a professional web developer proficient in HTML, CSS, Tailwind, JavaScript, 
 
 
 ## 📈 Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wdkammrul&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wdkammrul&theme=synthwave&card_width=595)](https://git.io/streak-stats)
 
 
 ## 👨🏽‍💻 My Skills
