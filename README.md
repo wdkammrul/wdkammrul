@@ -7,7 +7,11 @@
 
 
 ## 👨🏽‍💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,express,figma,firebase,mongodb,react,&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,express,figma,firebase,mongodb,react," />
+  </a>
+</p>
 
 
 ## Sports / Game / Activities / Hobby:
